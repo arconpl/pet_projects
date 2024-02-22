@@ -4,3 +4,6 @@
 
 **Задача:**
 - Создать решение для предсказания, совершит ли покупатель повторную покупку в течение ближайших 30 дней
+
+**Использованный стек:**
+`Python`, `Pandas`, `Numpy`, Scikit-learn, `Imbalanced-learn`, `SGDClassifier`, `CatBoostClassifier`, `Matplotlib`, `Seaborn`
