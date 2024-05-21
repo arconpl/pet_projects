@@ -4,4 +4,4 @@
 
 - проект [Предсказание активности клиентов программ добровольного медицинского страхования](med_ins_services_requests_%20frequency), выполненный по заказу компании [MAINS Lab](https://mainslab.ai/), 
 
-- проект [Предсказание активности покупаталей интернет-магазина](https://github.com/arconpl/projects/tree/1ff9d97a14c75b29b8279be129cb77f45dca99c2/purchase_repeat_prediction)
+- проект [Предсказание активности покупаталей интернет-магазина](purchase_repeat_prediction)
