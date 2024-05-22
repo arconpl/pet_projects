@@ -13,4 +13,4 @@
 - Оценка качества модели будет производиться с использованием `precision` и `ROC-AUC`.
 
   ## Использованный стек
-  - Python, Pandas, Numpy, Matplotlib, Seaborn, Catboost, PhiK
+  - Python, Pandas, Numpy, Matplotlib, Seaborn, Catboost, PhiK, Optuna
